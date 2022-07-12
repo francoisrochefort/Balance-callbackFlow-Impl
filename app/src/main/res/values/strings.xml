@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Balance</string>
+    <string name="none">None</string>
+    <string name="user">User</string>
+    <string name="customer">Customer</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="material">Material</string>
+    <string name="customer_deleted">Customer deleted</string>
+    <string name="undo">Undo</string>
+    <string name="user_deleted">User deleted</string>
+    <string name="material_deleted">Material deleted</string>
+    <string name="vehicle_deleted">Vehicle deleted</string>
+    <string name="customers">Customers</string>
+    <string name="materials">Materials</string>
+    <string name="delete_confirmation_dialog_title">Delete confirmation</string>
+    <string name="delete_confirmation_dialog_confirm_button">Confirm</string>
+    <string name="delete_confirmation_dialog_cancel_button">Cancel</string>
+    <string name="delete_confirmation_dialog_message">Please confirm you wish to permanently delete this item: %s</string>
+</resources>

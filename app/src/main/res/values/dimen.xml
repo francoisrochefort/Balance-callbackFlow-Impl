@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="MyTextBorderRadius">10dp</dimen>
+    <dimen name="MyTextBorderWidth">1dp</dimen>
+    <dimen name="MyWidgetPadding">5dp</dimen>
+
+
+</resources>
